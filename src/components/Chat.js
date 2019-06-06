@@ -5,4 +5,4 @@ const Chat = () => {
         <div> This is the Chat component</div>
     );
 };
-export default App;
+export default Chat;

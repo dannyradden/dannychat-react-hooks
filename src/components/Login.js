@@ -5,4 +5,4 @@ const Login = () => {
         <div> This is the Login component</div>
     );
 };
-export default App;
+export default Login;
